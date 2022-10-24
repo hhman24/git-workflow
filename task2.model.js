@@ -1,1 +1,1 @@
-console.log("Task 2 model")
+console.log("Task 2 model, thats oke")
