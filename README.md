@@ -1,2 +1,2 @@
 # git-workflow
-This my tutorial hhman
+hhman's tutoral
